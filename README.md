@@ -2,6 +2,7 @@
 
 - Place the file `'git-prompt.sh'` here: `'C:\Users\userName\.config\git\git-prompt.sh'`
 - **If the `'.config'` and `'git'` folders in the previous path don't exist, create them first.**
+- Configure path in `'git-prompt.sh'` located on line number **8** and **10**
 
 ## Further configuration options:
 - \a - an ASCII bell character (07)
